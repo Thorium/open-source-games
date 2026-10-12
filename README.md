@@ -25,7 +25,7 @@ This is a list of different open-source video games and commercial video games o
 
 ## Action games
 
-- **[FsRocket](https://thorium.github.io/FsRocket)** - A local multiplayer cave-flyer arena game for up to 4 players with destructible terrain, in the spirit of TurboRaketti. [[source]](https://github.com/Thorium/FsRocket)
+- **[FsRocket](https://thorium.github.io/FsRocket)** - A local multiplayer cave-flyer arena game for up to 4 players with destructible terrain, modelled on the Finnish AUTS (1995) and able to load its levels. [[source]](https://github.com/Thorium/FsRocket)
 
 - **[Hypersomnia](https://hypersomnia.io)** - Competitive top-down shooter with extreme dynamics and pixely nostalgia. Comes with a built-in map Editor. [[source]](https://github.com/TeamHypersomnia/Hypersomnia)
 
